@@ -1,6 +1,6 @@
 # stock-price-web-scraper
 This project fetches stock prices and saves them in an Excel file.
-# Stock Price Web Scraper:
+
 This Python project is designed to fetch real-time stock price data from a financial website and save the collected data into an Excel file. It's aimed at helping users to track and store stock prices for analysis and record-keeping purposes.
 
 # Key Features:
